@@ -17,5 +17,5 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Liens vers les animaux
 
-* [Lien] (animal.md "animal-lapin").
+* [Lien](animal.md "animal-lapin").
 * ...
