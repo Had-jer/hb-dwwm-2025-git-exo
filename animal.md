@@ -1,10 +1,22 @@
 # Nom animal
 
 Description rapide
+C'est un oiseau qui est jaune et qui vole pas 
 
-Une image avec une légende
+![Couak](/images.jpg)
 
 Un sous titre "Caractéristique"
-Cette section contiendra une liste avec le régime alimentaire de l'animal, si c'est un animal domestique ou non, la zone géographique dans laquelle on le trouve.
+## Caracteristique
+- Jaune
+- Pas domestique 
+- Habitat zones humides d'eau douce
 
-Un sous titre "Sous espèces" avec une liste de nom d'animaux de sous espèce de cet animal
+## Regime
+- Vegetaux
+- Graines
+- Algues
+- Insectes
+- Poisson
+
+## Sous especes 
+- poussin
