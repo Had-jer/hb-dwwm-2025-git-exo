@@ -1,10 +1,15 @@
-# Nom animal
+# Lion
 
-Description rapide
+Le Lion (Panthera leo) est une espèce de mammifères carnivores de la famille des Félidés. La femelle du lion est la lionne, son petit est le lionceau.
 
-Une image avec une légende
+![ un beau lion](/lion.jpg)
 
-Un sous titre "Caractéristique"
-Cette section contiendra une liste avec le régime alimentaire de l'animal, si c'est un animal domestique ou non, la zone géographique dans laquelle on le trouve.
+##Caractéristiques
 
-Un sous titre "Sous espèces" avec une liste de nom d'animaux de sous espèce de cet animal
+Le lion se nourrit de viande lorsqu'il n'est pas vegan.
+Il n'est pas domestiquable par l'homme. Mais peut être par la femme.
+Il vit dans la savane africaine.
+
+### Sous especes
+
+Le lion n'as pas de sous especes, a part peut etre le chat.
